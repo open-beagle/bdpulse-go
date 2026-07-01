@@ -17,7 +17,7 @@ package webhook
 import (
 	"context"
 
-	"github.com/drone/drone-go/plugin/internal/client"
+	"github.com/open-beagle/bdpulse-go/plugin/internal/client"
 )
 
 // Client returns a new plugin client.

@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drone/drone-go/plugin/internal/aesgcm"
+	"github.com/open-beagle/bdpulse-go/plugin/internal/aesgcm"
 
 	"github.com/99designs/httpsignatures-go"
 	"github.com/google/go-cmp/cmp"

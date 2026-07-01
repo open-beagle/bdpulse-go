@@ -1,4 +1,4 @@
-module github.com/drone/drone-go
+module github.com/open-beagle/bdpulse-go
 
 go 1.14
 
